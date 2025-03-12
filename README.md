@@ -31,8 +31,8 @@ A platform designed to help recruiters discover AI professionals by allowing use
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-talent-search.git
-cd ai-talent-search
+git clone https://github.com/yourusername/opportu-ai.git
+cd opportu-ai
 ```
 
 2. Install dependencies
